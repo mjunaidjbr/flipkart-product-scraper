@@ -1,4 +1,5 @@
 # flipkart-product-scraper
+![portfolio-flipkart](https://github.com/mjunaidjbr/flipkart-product-scraper/assets/63024982/16bf3086-fe7a-4652-819d-e4ae6e8d08ee)
 ## GUI Layout:
 ![gui_layout](https://github.com/mjunaidjbr/flipkart-product-scraper/blob/main/gui_layout.png)
 
